@@ -43,11 +43,12 @@ SMOTEEN Model:
 
 BalancedRandomForestClassifier Model:
 
-
+![Forest](https://user-images.githubusercontent.com/75760493/120284730-2d828e80-c282-11eb-92bf-1d0e39e33996.PNG)
 
 
 EasyEnsembleClassifier Model:
 
+![Easy](https://user-images.githubusercontent.com/75760493/120284786-3d9a6e00-c282-11eb-8381-e5b4c72eea70.PNG)
 
 
 
