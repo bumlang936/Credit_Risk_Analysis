@@ -6,7 +6,7 @@ The purpose of this analysis was to create a supervised machine learning model t
 
 Imbalanced-learn and scikit-learn librariers will be used to build the models and evaluate them as well, by resampling. For this analysis, 6 different models will be used:
 
-1. Naive RandomOverSampler oversampling
+1. RandomOverSampler oversampling
 2. SMOTE oversampling
 3. Cluster Centriod undersampling
 4. SMOTEEN over-and-undersampling
