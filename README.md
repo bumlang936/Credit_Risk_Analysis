@@ -48,7 +48,7 @@ BalancedRandomForestClassifier Model:
 
 EasyEnsembleClassifier Model:
 
-![Easy](https://user-images.githubusercontent.com/75760493/120285162-9c5fe780-c282-11eb-85c4-7b047863a93f.PNG)
+![Easy](https://user-images.githubusercontent.com/75760493/120286185-97e7fe80-c283-11eb-8a61-aaf2f3585179.PNG)
 
 
 
