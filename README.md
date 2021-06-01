@@ -23,22 +23,22 @@ The balanced accuracy score, the confusion matrices, and the imbalance classific
 
 RandomOverSampler Model:
 
-![naive_random](https://user-images.githubusercontent.com/75760493/120284233-ad5c2900-c281-11eb-9397-6e2e5a537156.PNG)
+![naive_random](https://user-images.githubusercontent.com/75760493/120285965-666f3300-c283-11eb-9a19-be8542561caf.PNG)
 
 
 SMOTE Model:
 
-![SMOTE](https://user-images.githubusercontent.com/75760493/120284300-b9e08180-c281-11eb-9d92-a217cb5a43ad.PNG)
+![SMOTE](https://user-images.githubusercontent.com/75760493/120285846-48093780-c283-11eb-9c39-3606a1b32363.PNG)
 
 
 ClusterCentroids Model:
 
-![Cluster](https://user-images.githubusercontent.com/75760493/120284346-c664da00-c281-11eb-8714-a86567ef67ff.PNG)
+![Cluster](https://user-images.githubusercontent.com/75760493/120285756-31fb7700-c283-11eb-8641-e0f5962e95a3.PNG)
 
 
 SMOTEEN Model:
 
-![combo](https://user-images.githubusercontent.com/75760493/120284411-d54b8c80-c281-11eb-9641-7f5551934ef2.PNG)
+![combo](https://user-images.githubusercontent.com/75760493/120285610-08dae680-c283-11eb-831a-97804383229a.PNG)
 
 
 BalancedRandomForestClassifier Model:
