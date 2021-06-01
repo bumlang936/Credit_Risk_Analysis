@@ -21,32 +21,35 @@ Each model will have it's performance evaluated to see if it would be a good rec
 The balanced accuracy score, the confusion matrices, and the imbalance classificaiton reports are shown for each model in the images below.
 
 
-RandomOverSampler Model:
+### RandomOverSampler Model:
 
 ![naive_random](https://user-images.githubusercontent.com/75760493/120285965-666f3300-c283-11eb-9a19-be8542561caf.PNG)
 
-
-SMOTE Model:
-
-![SMOTE](https://user-images.githubusercontent.com/75760493/120285846-48093780-c283-11eb-9c39-3606a1b32363.PNG)
+This model had a balanced accuarcy score of 66.03%.
 
 
-ClusterCentroids Model:
+
+### SMOTE Model:
+
+![SMOTE](https://user-images.githubusercontent.com/75760493/120290470-fb742b00-c287-11eb-83df-a9e4837f460f.PNG)
+
+
+### ClusterCentroids Model:
 
 ![Cluster](https://user-images.githubusercontent.com/75760493/120285756-31fb7700-c283-11eb-8641-e0f5962e95a3.PNG)
 
 
-SMOTEEN Model:
+### SMOTEEN Model:
 
 ![combo](https://user-images.githubusercontent.com/75760493/120285610-08dae680-c283-11eb-831a-97804383229a.PNG)
 
 
-BalancedRandomForestClassifier Model:
+### BalancedRandomForestClassifier Model:
 
 ![Forest](https://user-images.githubusercontent.com/75760493/120285433-dc26cf00-c282-11eb-9b23-cb7cf40be8d1.PNG)
 
 
-EasyEnsembleClassifier Model:
+### EasyEnsembleClassifier Model:
 
 ![Easy](https://user-images.githubusercontent.com/75760493/120286316-b8b05400-c283-11eb-9473-73d5c7ae9558.PNG)
 
