@@ -21,7 +21,7 @@ Each model will have its performance evaluated to see if it would be a good reco
 The balanced accuracy score, the confusion matrices, and the imbalance classification reports are shown for each model in the images below.
 
 
-### RandomOverSampler Model:
+### Naive Random Model:
 
 ![naive_random](https://user-images.githubusercontent.com/75760493/120285965-666f3300-c283-11eb-9a19-be8542561caf.PNG)
 
